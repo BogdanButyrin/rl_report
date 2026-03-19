@@ -1,3 +1,3 @@
-В файле exp-bitflip.ipynb содержатся эксперименты по BitFlip.
+В ноутбуке exp-bitflip.ipynb содержится код к экспериментам по BitFlip.
 
-В файле exp-pushing.ipynb содержатся эксперименты по FetchPush.
+В ноутбуке exp-pushing.ipynb содержится код к экспериментам по FetchPush.
